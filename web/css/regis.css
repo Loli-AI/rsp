@@ -1,0 +1,96 @@
+        body{
+            font-family: sans-serif;
+            padding:10px;
+        }
+        .fulltext{
+            width: 100%;
+        } 
+        label{
+            cursor: pointer;
+        }
+        .droptext{
+            width: 95%;
+        }
+        .button{
+            font-size:14px;
+            height:30px;
+            width:75%;
+            color:black;
+
+        }
+        .printB{
+            float:left;
+            font-size:11px;
+            margin: 5px;
+            text-align: center;
+            line-height: 15px;
+            padding:2px;
+            cursor: pointer;
+            border-radius: 5px;
+            height: 15px;
+            position: relative;
+            color:black;
+            width: 17%;
+        }
+        .drop{
+            width: 135px;
+        }
+        .search{
+            line-height: 30px;
+            cursor: pointer;
+            text-align: center;
+        }
+        .text{
+            width: 180px;
+        }
+
+        .smalltext{
+            width: 100px;
+        }
+        textarea{
+            border:1px solid grey;
+        }
+        .print{
+            width: 100%;
+            padding: 5px;
+        }
+        .alert{
+            text-align:center;
+        }
+        .table-responsive{
+            width:1150px;
+            overflow:scroll;
+        }
+        .radius{
+            border-radius: 5px;
+        }
+        .plastic{
+            float:left;
+            width:45%;
+            margin-right:40px;
+            /* margin-top:15px;
+            margin-left:10px; */
+        }
+        .end{
+            float:left;
+            width:50%;
+            margin-right:-20px;
+            /* margin-top:15px;
+            margin-left:10px; */
+
+        }
+        input{
+            border-radius: 5px;
+            /* border-bottom:2px solid grey; */
+            /* background-color:rgba(0, 0, 0, 0); */
+            outline:none;
+        }
+        input:focus{
+            border:none;
+        }
+        i{
+            font-size:16px;
+        }
+        tr{
+            margin-top: 100px;
+        }

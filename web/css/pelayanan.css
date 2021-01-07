@@ -1,0 +1,131 @@
+      .alert{
+        background-color: lightgray; 
+        }
+
+        .top{
+            margin-top: 15px;
+        }
+        .navbar-default{
+            background-color: lightgray;
+            width: 900px;
+            float: inherit;
+            align-items: center;
+        }
+        
+
+        #resep{
+            background-color:white;
+            width:auto;
+            height:auto;
+            transform:translate(230px,-750px);
+            position:absolute;
+            display:none;
+            z-index:100;
+        }
+        #inform{
+            background-color:white;
+            width:auto;
+            height:auto;
+            transform:translate(230px,-550px);
+            position:absolute;
+            display:none;
+            z-index:100;
+        }
+        #persetujuan{
+            background-color:white;
+            width:auto;
+            height:auto;
+            transform:translate(230px,-550px);
+            position:absolute;
+            display:none;
+            z-index:100;
+        }
+        #penolakan{
+            background-color:white;
+            width:auto;
+            height:auto;
+            transform:translate(230px,-550px);
+            position:absolute;
+            display:none;
+            z-index:100;
+        }
+        .outborder{
+            width: auto;
+            height: auto;
+            padding: 20px;
+            box-shadow: #ddd 1px 2px 2px 1px;
+            border :1px solid lightgrey;
+        }
+        .telpon{
+            text-decoration-color: aqua;
+
+        }
+        textarea{
+        border-radius: 5px;
+        }
+        body{
+            font-family:z;
+        }
+        .table-responsive{
+            background-color: #ffff;
+            width: 800px;
+            height: 150px;
+            overflow: scroll;
+        }
+        .table-responsive2{
+            background-color: #ffff;
+            width: 800px;
+            height: 150px;
+            overflow: scroll;
+        }
+        input {
+        display: none;
+        -webkit-writing-mode: horizontal-tb !important;
+        text-rendering: auto;
+        letter-spacing: normal;
+        word-spacing: normal;
+        text-transform: none;
+        text-indent: 0px;
+        text-shadow: none;
+        display: inline-block;
+        text-align: start;
+        -webkit-rtl-ordering: logical;
+        margin: 0em;
+        }
+            .row.content {height: 800px;}
+            .sidenav {
+            background-color: #f1f1f1;
+            height: 100%;
+            }
+            footer {
+            background-color: #555;
+            color: white;
+            padding: 15px;
+            }
+            @media screen and (max-width: 700px) {
+            .sidenav {
+                height: auto;
+                padding: 15px;
+            }
+            .row.content {height: auto;} 
+            }
+            .navtable{
+                width:850px;
+            }
+            .fa-caret-down {
+            float: right;
+            padding-right: 8px;
+            }
+            .dropdown-container {
+            display: none;
+            padding-left: 8px;
+            }
+            td{
+                align:center;
+            }
+            .overflow{
+                height: 200px;
+                overflow: scroll;
+                border: 1px solid #ccc;
+                text-align:center;
+            }
